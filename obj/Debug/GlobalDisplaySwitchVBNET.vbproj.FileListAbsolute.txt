@@ -1,0 +1,10 @@
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\bin\Debug\GlobalDisplaySwitchVBNET.exe.config
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\bin\Debug\GlobalDisplaySwitchVBNET.exe
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\bin\Debug\GlobalDisplaySwitchVBNET.pdb
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\bin\Debug\GlobalDisplaySwitchVBNET.xml
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\obj\Debug\GlobalDisplaySwitchVBNET.Form1.resources
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\obj\Debug\GlobalDisplaySwitchVBNET.Resources.resources
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\obj\Debug\GlobalDisplaySwitchVBNET.vbproj.GenerateResource.Cache
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\obj\Debug\GlobalDisplaySwitchVBNET.exe
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\obj\Debug\GlobalDisplaySwitchVBNET.xml
+c:\users\win7-gaming\documents\visual studio 2013\Projects\GlobalDisplaySwitchVBNET\GlobalDisplaySwitchVBNET\obj\Debug\GlobalDisplaySwitchVBNET.pdb
